@@ -1,0 +1,56 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flex {
+  display: flex;
+}
+
+.items-center {
+  align-items: center;
+}
+
+.justify-center {
+  justify-content: center;
+}
+
+.bg-gray {
+  background-color: #e8e8e8;
+}
+
+.bg-black {
+  background-color: #000000;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+.pa0 { padding: 0; }
+.pa1 { padding: .25rem; }
+.pa2 { padding: .5rem; }
+.pa3 { padding: 1rem; }
+.pa4 { padding: 2rem; }
+
+.pv0 { padding-top: 0; padding-bottom: 0; }
+.pv1 { padding-top: .25rem; padding-bottom: .25rem; }
+.pv2 { padding-top: .5rem; padding-bottom: .5rem; }
+.pv3 { padding-top: 1rem; padding-bottom: 1rem; }
+.pv4 { padding-top: 2rem; padding-bottom: 2rem; }
+
+.ph0 { padding-left: 0; padding-right: 0; }
+.ph1 { padding-left: .25rem; padding-right: .25rem; }
+.ph2 { padding-left: .5rem; padding-right: .5rem; }
+.ph3 { padding-left: 1rem; padding-right: 1rem; }
+.ph4 { padding-left: 2rem; padding-right: 2rem; }

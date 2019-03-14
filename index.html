@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <script src="https://sdk.amazonaws.com/js/aws-sdk-2.412.0.min.js"></script>
+    <link rel="stylesheet" href="./styles.css" type="text/css"/>
+    <script src="https://static.trymason.com/mason@latest.js"></script>
+    <title>Mason Quickstart - VanillaJS</title>
+  </head>
+  <body>
+    <div class="bg-gray pa3 w-100 min-vh-100">
+      <div class="w-100 pa3">
+        <p>Mason starter kit</p>
+        <p>This project is a simple bare-bones application that's set up for you to deploy your Mason features into.</p>
+        <p>This is just custom HTML. Mason features live right alongside any of your frontend custom code.</p>
+      </div>
+      <div class="w-100 bg-black flex items-center justify-center pa3">
+        <mason-canvas data-id="5c8a9b48b8c8d600032644ad"></mason-canvas>
+      </div>
+    </div>
+    <script type="text/javascript">
+      window.masonAsyncInit = function() {
+        Mason({
+          apiKey: 'F2iH1kKvAY02h9aKMKEzOZ8tEb08jmiqVMoggpZQhOs=', // Replace this with your API key
+          projectId: '5c19c9430d278900033d9b70', // Replace this with your Project ID
+        });
+      };
+    </script>
+  </body>
+</html>
