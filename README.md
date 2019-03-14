@@ -7,8 +7,8 @@ This is a quick starter kit to get you up and running with Mason immediately.  M
 Use Git to clone this repo to your local machine.
 
 ```
-  $ git clone https://github.com/trymason/vanillajs-quickstart
-  $ cd vanillajs-quickstart
+  $ git clone https://github.com/trymason/javascript-quickstart
+  $ cd javascript-quickstart
 ```
 
 **Open index.html and paste in your API key and project ID**
