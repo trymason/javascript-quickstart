@@ -20,7 +20,7 @@ Use Git to clone this repo to your local machine.
 
 **Paste in your components where you want them.**
 
-Look for "<mason-canvas>" and replace the demo component with your own.
+Look for "\<mason-canvas>" and replace the demo component with your own.
 
 
 **Save and open up index.html in a browser - that's it!**
