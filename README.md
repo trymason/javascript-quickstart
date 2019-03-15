@@ -18,6 +18,11 @@ Use Git to clone this repo to your local machine.
 
 *Replace these values with your API Key and Project ID*
 
+**Paste in your components where you want them.**
+
+Look for "<mason-canvas>" and replace the demo component with your own.
+
+
 **Save and open up index.html in a browser - that's it!**
 
 Paste one or many Mason components onto the page (there's a demo Canvas already deployed for you as an example).  
