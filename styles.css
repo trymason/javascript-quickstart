@@ -10,6 +10,10 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
+.border-box {
+  box-sizing: border-box;
+}
+
 .h1 {
   font-size: 34px;
   font-weight: 600;
